@@ -1,0 +1,15 @@
+/Users/Apple/RiderProjects/ExpensesAccount /Application/bin/Debug/net8.0/Application.deps.json
+/Users/Apple/RiderProjects/ExpensesAccount /Application/bin/Debug/net8.0/Application.dll
+/Users/Apple/RiderProjects/ExpensesAccount /Application/bin/Debug/net8.0/Application.pdb
+/Users/Apple/RiderProjects/ExpensesAccount /Application/bin/Debug/net8.0/Domain.dll
+/Users/Apple/RiderProjects/ExpensesAccount /Application/bin/Debug/net8.0/Domain.pdb
+/Users/Apple/RiderProjects/ExpensesAccount /Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/Apple/RiderProjects/ExpensesAccount /Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Apple/RiderProjects/ExpensesAccount /Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/Apple/RiderProjects/ExpensesAccount /Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/Apple/RiderProjects/ExpensesAccount /Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/Apple/RiderProjects/ExpensesAccount /Application/obj/Debug/net8.0/Application.csproj.CopyComplete
+/Users/Apple/RiderProjects/ExpensesAccount /Application/obj/Debug/net8.0/Application.dll
+/Users/Apple/RiderProjects/ExpensesAccount /Application/obj/Debug/net8.0/refint/Application.dll
+/Users/Apple/RiderProjects/ExpensesAccount /Application/obj/Debug/net8.0/Application.pdb
+/Users/Apple/RiderProjects/ExpensesAccount /Application/obj/Debug/net8.0/ref/Application.dll

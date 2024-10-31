@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sTQA8W/iDxZeBKvCmzppGpD103w+iB5YQ5FOWOCeCI0=",
+  "Source": "ExpensesAccount",
+  "BasePath": "_content/ExpensesAccount",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
